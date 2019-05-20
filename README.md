@@ -12,6 +12,8 @@ Though the above dashboard is just showing the newest articles, you could imagin
 the articles that are most pertinent to a specific user. In order to determine which articles to show to each user, I will be performing 
 a study of the data available on the IBM Watson Studio platform.
 
+## What does the project contain?
+
 > I. Exploratory Data Analysis
 
 Before making recommendations of any kind, I will need to explore the data I am working with for the project. Dive in to see what I 
