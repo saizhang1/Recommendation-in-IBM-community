@@ -1,6 +1,6 @@
 # Recommendation-in-IBM-community
 
-##Introduction
+## Introduction
 For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make 
 recommendations to them about new articles I think they will like. Below you can see an example of what the dashboard could look 
 like displaying articles on the IBM Watson Platform.
